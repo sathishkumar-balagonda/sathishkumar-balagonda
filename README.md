@@ -1,4 +1,4 @@
-🎓 I’m Sathish, an Electronics and Communication Engineering (ECE) student with a growing passion for software development — especially in Java-based backend systems.
+🎓 I’m Sathish Kumar Balagonda, an Electronics and Communication Engineering (ECE) student with a growing passion for software development — especially in Java-based backend systems.
 
 💡 Though rooted in hardware fundamentals, I’ve expanded into the world of coding by building hands-on projects like a console-based ATM Management System using Java, MySQL, and JDBC. This project deepened my understanding of object-oriented programming, database integration, and clean code practices.
 
@@ -24,5 +24,5 @@ It simulates core banking operations like:
 📌 GitHub Repo: [ATM Management System](https://github.com/sathishkumar-balagonda/ATM-Management-System)
 📷 Screenshots and detailed setup instructions included.
 📫 Let’s connect!
-- GitHub: [github.com/yourusername](https://github.com/sathishkumar-balagonda)
-- LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/sathish-kumar-balagonda-166372286) 
+- GitHub: [github.com/sathishkumar-balagonda](https://github.com/sathishkumar-balagonda)
+- LinkedIn: [linkedin.com/in/sathish-kumar-balagonda-166372286](www.linkedin.com/in/sathish-kumar-balagonda-166372286) 
