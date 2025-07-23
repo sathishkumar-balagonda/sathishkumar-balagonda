@@ -24,7 +24,6 @@ It simulates core banking operations like:
 📌 GitHub Repo: [ATM Management System](https://github.com/sathishkumar-balagonda/ATM-Management-System)
 📷 Screenshots and detailed setup instructions included.
 
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kumar-balagonda-166372286)  
