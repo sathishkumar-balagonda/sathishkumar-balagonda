@@ -9,8 +9,20 @@
 
 🚀 I believe in learning by doing — and I’m constantly building, refining, and sharing projects to improve my skills. My GitHub reflects this journey, with clean code, structured README files, and a commitment to continuous growth.
 
-📌 Currently open to internships, collaborations, or mentorship in software development and embedded systems.
+📌 Currently open to internships, collaborations, or mentorship in software development.
 
+## 🚀 Projects
+
+### 🏦 ATM Management System
+A console-based ATM application built using Java and MySQL.  
+It simulates core banking operations like:
+- User login and authentication
+- Balance enquiry
+- Withdraw and deposit operations
+- Database integration using JDBC
+
+📌 GitHub Repo: [ATM Management System](https://github.com/yourusername/ATM-Management-System)
+📷 Screenshots and detailed setup instructions included.
 📫 Let’s connect!
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) 
+- GitHub: [github.com/yourusername](https://github.com/sathishkumar-balagonda)
+- LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/sathish-kumar-balagonda-166372286) 
