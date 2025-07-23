@@ -21,7 +21,7 @@ It simulates core banking operations like:
 - Withdraw and deposit operations
 - Database integration using JDBC
 
-📌 GitHub Repo: [ATM Management System](https://github.com/yourusername/ATM-Management-System)
+📌 GitHub Repo: [ATM Management System](https://github.com/sathishkumar-balagonda/ATM-Management-System)
 📷 Screenshots and detailed setup instructions included.
 📫 Let’s connect!
 - GitHub: [github.com/yourusername](https://github.com/sathishkumar-balagonda)
