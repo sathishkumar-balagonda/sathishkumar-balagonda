@@ -25,4 +25,4 @@ It simulates core banking operations like:
 📷 Screenshots and detailed setup instructions included.
 📫 Let’s connect!
 - GitHub: [github.com/sathishkumar-balagonda](https://github.com/sathishkumar-balagonda)
-- LinkedIn: [linkedin.com/in/sathish-kumar-balagonda-166372286](www.linkedin.com/in/sathish-kumar-balagonda-166372286) 
+- LinkedIn: [linkedin](www.linkedin.com/in/sathish-kumar-balagonda-166372286) 
