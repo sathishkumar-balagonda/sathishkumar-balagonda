@@ -31,7 +31,7 @@ A responsive portfolio website built with **HTML & CSS** to showcase my skills, 
 - Responsive design for both desktop & mobile  
 - Hosted on **GitHub Pages**  
 
-🔗 [Live Demo]([https://yourusername.github.io/portfolio/](https://sathishkumar-balagonda.github.io/portfolio/ )) | [Code](https://github.com/sathishkumar-balagonda/portfolio)  
+🔗 [Live Demo](https://sathishkumar-balagonda.github.io/portfolio/) | [Code](https://github.com/sathishkumar-balagonda/portfolio)  
 
 ---
 
